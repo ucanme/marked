@@ -1,3 +1,5 @@
+#修复一处与highlight的兼容问题
+#repair a compatible problem with highlight.js
 <a href="https://marked.js.org">
   <img width="60px" height="60px" src="https://marked.js.org/img/logo-black.svg" align="right" />
 </a>
